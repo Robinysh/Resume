@@ -2,12 +2,16 @@
 
 
 ## ASC19 Perceptual SuperResolution
+Repository: [ASC19 super resolution](https://github.com/Robinysh/asc19-super-resolution)
 
-| Low Resolution Image (Input)  | High Resolution (Output)  |
+
+| Low Resolution Image Input  | High Resolution Image Output  |
 |---|---|
 |<img src="imgs/lr_monkey.png" width="700">| <img src="imgs/hr_monkey.png" width="700">
 |<img src="imgs/lr_hill.png" width="700">| <img src="imgs/hr_hill.png" width="700">
 ## ASC18 Question Answering Neural Network
+Repository: [ASC18 Question Answering Neural Network](https://github.com/Robinysh/asc18-cntk)
+
 
 | Question  | Document | Answer | Notes |
 |---|---|---|---|
